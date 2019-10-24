@@ -1,4 +1,5 @@
-# gcanalyzer
+﻿# gcanalyzer
+
 
 使用说明：
 1.	把gclogger.sh放入压测环境，执行。
